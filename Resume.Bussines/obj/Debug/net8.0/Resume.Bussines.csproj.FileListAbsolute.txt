@@ -1,0 +1,30 @@
+D:\Project\New folder\Resume\Resume.Bussines\bin\Debug\net8.0\Resume.Bussines.deps.json
+D:\Project\New folder\Resume\Resume.Bussines\bin\Debug\net8.0\Resume.Bussines.dll
+D:\Project\New folder\Resume\Resume.Bussines\bin\Debug\net8.0\Resume.Bussines.pdb
+D:\Project\New folder\Resume\Resume.Bussines\bin\Debug\net8.0\Resume.DAL.dll
+D:\Project\New folder\Resume\Resume.Bussines\bin\Debug\net8.0\Resume.DAL.pdb
+D:\Project\New folder\Resume\Resume.Bussines\obj\Debug\net8.0\Resume.Bussines.csproj.AssemblyReference.cache
+D:\Project\New folder\Resume\Resume.Bussines\obj\Debug\net8.0\Resume.Bussines.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\New folder\Resume\Resume.Bussines\obj\Debug\net8.0\Resume.Bussines.AssemblyInfoInputs.cache
+D:\Project\New folder\Resume\Resume.Bussines\obj\Debug\net8.0\Resume.Bussines.AssemblyInfo.cs
+D:\Project\New folder\Resume\Resume.Bussines\obj\Debug\net8.0\Resume.Bussines.csproj.CoreCompileInputs.cache
+D:\Project\New folder\Resume\Resume.Bussines\obj\Debug\net8.0\Resume.Bussines.dll
+D:\Project\New folder\Resume\Resume.Bussines\obj\Debug\net8.0\refint\Resume.Bussines.dll
+D:\Project\New folder\Resume\Resume.Bussines\obj\Debug\net8.0\Resume.Bussines.pdb
+D:\Project\New folder\Resume\Resume.Bussines\obj\Debug\net8.0\ref\Resume.Bussines.dll
+D:\Project\New folder\Resume\Resume.Bussines\obj\Debug\net8.0\Resume.B.916C1AAF.Up2Date
+C:\Users\Win\Desktop\29_ResumeWebSite_Rezai\Resume\Resume.Bussines\bin\Debug\net8.0\Resume.Bussines.deps.json
+C:\Users\Win\Desktop\29_ResumeWebSite_Rezai\Resume\Resume.Bussines\bin\Debug\net8.0\Resume.Bussines.dll
+C:\Users\Win\Desktop\29_ResumeWebSite_Rezai\Resume\Resume.Bussines\bin\Debug\net8.0\Resume.Bussines.pdb
+C:\Users\Win\Desktop\29_ResumeWebSite_Rezai\Resume\Resume.Bussines\bin\Debug\net8.0\Resume.DAL.dll
+C:\Users\Win\Desktop\29_ResumeWebSite_Rezai\Resume\Resume.Bussines\bin\Debug\net8.0\Resume.DAL.pdb
+C:\Users\Win\Desktop\29_ResumeWebSite_Rezai\Resume\Resume.Bussines\obj\Debug\net8.0\Resume.Bussines.csproj.AssemblyReference.cache
+C:\Users\Win\Desktop\29_ResumeWebSite_Rezai\Resume\Resume.Bussines\obj\Debug\net8.0\Resume.Bussines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win\Desktop\29_ResumeWebSite_Rezai\Resume\Resume.Bussines\obj\Debug\net8.0\Resume.Bussines.AssemblyInfoInputs.cache
+C:\Users\Win\Desktop\29_ResumeWebSite_Rezai\Resume\Resume.Bussines\obj\Debug\net8.0\Resume.Bussines.AssemblyInfo.cs
+C:\Users\Win\Desktop\29_ResumeWebSite_Rezai\Resume\Resume.Bussines\obj\Debug\net8.0\Resume.Bussines.csproj.CoreCompileInputs.cache
+C:\Users\Win\Desktop\29_ResumeWebSite_Rezai\Resume\Resume.Bussines\obj\Debug\net8.0\Resume.B.916C1AAF.Up2Date
+C:\Users\Win\Desktop\29_ResumeWebSite_Rezai\Resume\Resume.Bussines\obj\Debug\net8.0\Resume.Bussines.dll
+C:\Users\Win\Desktop\29_ResumeWebSite_Rezai\Resume\Resume.Bussines\obj\Debug\net8.0\refint\Resume.Bussines.dll
+C:\Users\Win\Desktop\29_ResumeWebSite_Rezai\Resume\Resume.Bussines\obj\Debug\net8.0\Resume.Bussines.pdb
+C:\Users\Win\Desktop\29_ResumeWebSite_Rezai\Resume\Resume.Bussines\obj\Debug\net8.0\ref\Resume.Bussines.dll

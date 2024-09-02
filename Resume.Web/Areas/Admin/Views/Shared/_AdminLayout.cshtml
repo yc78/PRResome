@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <partial name="_MetaTags"/>
+    <title>ادمین | @ViewData["Title"]</title>
+
+    <partial name="_HeaderReferences"/>
+
+</head>
+
+<body class="light rtl">
+
+<partial name="_Loader"/>
+
+<div class="overlay"></div>
+
+<partial name="_TopNavBar"/>
+
+@await Component.InvokeAsync("LeftSideBar")
+
+<section class="content">
+    <div class="container-fluid">
+        @RenderBody()
+    </div>
+</section>
+<partial name="_FooterReferences"/>
+
+</body>

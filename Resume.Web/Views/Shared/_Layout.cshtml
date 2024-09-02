@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html lang="fa">
+<head>
+
+    <partial name="_MetaTags"/>
+
+    <title>@ViewData["Title"]یاسمین یعقوبی | </title>
+
+    <partial name="_HeaderReferences"/>
+    @await RenderSectionAsync("Styles",false)
+
+</head>
+<body>
+<!-- Preloader -->
+<partial name="_Loader"/>
+
+
+<main class="main">
+    <!-- Header Image -->
+    <partial name="_TopHeader"/>
+
+    <div class="container gutter-top">
+
+        @await Component.InvokeAsync("Header")
+
+        <div class="row sticky-parent">
+            <!-- Sidebar nav -->
+            <partial name="_SideBar"/>
+
+            <!-- Content -->
+            <div class="col-12 col-md-12 col-lg-10">
+
+                @RenderBody()
+
+                <partial name="_Footer"/>
+            </div>
+        </div>
+    </div>
+</main>
+
+
+
+<partial name="_FooterReferences"/>
+@await RenderSectionAsync("Scripts",false)
+</body>
+</html>
